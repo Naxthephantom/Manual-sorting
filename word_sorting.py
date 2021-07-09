@@ -9,3 +9,4 @@ for i in range(0,len(words)):
             words[i] = words[j]
             words[j] = temp
     
+print(words)
